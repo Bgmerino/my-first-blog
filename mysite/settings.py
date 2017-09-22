@@ -25,7 +25,7 @@ SECRET_KEY = 'z$s11agr7&vk(q61r_edw=f&pcuuu0-)$^3!va8ljzrcx!whr^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bgmerino.pythonanywhere.com','Bgmerino.pythonanywhere.com']
 
 
 # Application definition
